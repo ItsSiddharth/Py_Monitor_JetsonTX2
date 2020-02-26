@@ -1,0 +1,6 @@
+README.md
+setup.py
+Py_Monitor_JetsonTX2.egg-info/PKG-INFO
+Py_Monitor_JetsonTX2.egg-info/SOURCES.txt
+Py_Monitor_JetsonTX2.egg-info/dependency_links.txt
+Py_Monitor_JetsonTX2.egg-info/top_level.txt
