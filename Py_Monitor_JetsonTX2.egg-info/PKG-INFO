@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Py-Monitor-JetsonTX2
-Version: 0.0.2
+Version: 0.0.4
 Summary: The package allows you to monitor how python consumes your resources
 Home-page: UNKNOWN
 Author: Siddharth Menon

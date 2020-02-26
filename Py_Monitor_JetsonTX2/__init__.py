@@ -97,12 +97,8 @@ class Analyser:
 			cpu_temp.append(list1[i+3])
 			power_consumption_list.append(list1[i+4])
 			i=i+5	
-		print(statistics.mean(cpu_list))
-		print(statistics.mean(gpu_list))
-		print(statistics.mean(cpu_temp))
-		print(statistics.mean(gpu_temp))
-		print(statistics.mean(power_consumption_list))
 
+			
 		plt.subplot(3, 1, 1)
 		plt.plot(timer, gpu_list,label='GPU Usage')
 		plt.plot(timer, cpu_list,label='RAM')	
