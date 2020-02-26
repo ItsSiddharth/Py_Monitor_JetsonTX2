@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Py-Monitor-JetsonTX2
-Version: 0.0.1
+Version: 0.0.2
 Summary: The package allows you to monitor how python consumes your resources
 Home-page: UNKNOWN
 Author: Siddharth Menon
@@ -33,6 +33,6 @@ Description: Optimisation has become a need of the hour. Monitoring GPU %,RAM us
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Dependent
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
