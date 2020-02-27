@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Py_Monitor_JetsonTX2", # Replace with your own username
-    version="0.0.4",
+    version="0.1.0",
     author="Siddharth Menon",
     author_email="siddharth.menon1@gmail.com",
     description="The package allows you to monitor how python consumes your resources",
