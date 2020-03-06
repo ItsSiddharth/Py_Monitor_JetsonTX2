@@ -21,7 +21,7 @@ $ pip3 install Py-Monitor-JetsonTX2
 ## Syntax 
 1. Import the library.
 ```shell
-```
+```python
 >>> import Py_Monitor_JetsonTX2 as pm
 ```
 2. Create an object of the class, pm.Analyser(). Say, `analyser`.
