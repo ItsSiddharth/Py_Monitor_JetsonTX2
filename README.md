@@ -20,17 +20,16 @@ $ pip3 install Py-Monitor-JetsonTX2
 
 ## Syntax 
 1. Import the library.
-```shell
-```python
->>> import Py_Monitor_JetsonTX2 as pm
+```
+>> import Py_Monitor_JetsonTX2 as pm
 ```
 2. Create an object of the class, pm.Analyser(). Say, `analyser`.
 ```
->>> analyser = pm.Analyser()
+>> analyser = pm.Analyser()
 ```
 3. Now place a start trigger at that point in your code where you want to start recording the resources being used
 ```
->>> analyser.start_recording()
+>> analyser.start_recording()
 ```
 * **NOTE** : This initiates another thread parallel to the script that is being executed.
 4. Once the process you want to monitor is over place another trigger telling the package to stop monitoring resource consumption.
