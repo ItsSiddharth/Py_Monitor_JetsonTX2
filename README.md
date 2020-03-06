@@ -36,7 +36,6 @@ $ pip3 install Py-Monitor-JetsonTX2
 ```
 >>> analyser.stop_recording()
 ```
-```
 5. Once the code completes execution you can return to your directory where the python code resides to find a PNG that shows the GPU usage, CPU usage, GPU temperature, CPU temperature and Power consumption stats of the code that lies within ```start_recording() and stop_recording()```
 
 ## LICENSE
